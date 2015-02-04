@@ -1,0 +1,16 @@
+{
+    "name": "kirchbergerknorr/cookienotice",
+    "description": "ProTranslate",
+    "keywords": ["magento", "cookie"],
+    "homepage": "http://www.magentocommerce.com/magento-connect/cookie-law-compliance-eu-uk-implied-consent-16757.html",
+    "type": "magento-module",
+    "license":"OSL-3.0",
+    "authors": [
+        {
+            "name": "Benedikt Volkmer",
+            "email": "bv@kirchbergerknorr.de"
+        }
+    ],
+    "require": {
+    }
+}
